@@ -2,4 +2,32 @@
 box-sizing: border-box;
 -moz-box-sizing: border-box;
 -web-kit-box-sizing: border-box;
+border: 1px dotted blue;
+}
+
+span {
+
+}
+
+img {
+  height:auto;
+  width: auto;
+}
+
+.stanza {
+  width: 250px;
+  height: 250px;
+  display: inline-block;
+
+}
+
+footer {
+  text-align: center;
+  background: black;
+  color: grey;
+  padding: 1rem;
+}
+
+.plan {
+float: left;
 }
