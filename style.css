@@ -5,14 +5,15 @@ box-sizing: border-box;
 border: 1px;
 }
 
-span {
+nav {
+  background-color: lightgrey;
 
 }
 
 img {
   height: 300px;
   width: 1250px;
-  
+
 }
 
 .stanza {
