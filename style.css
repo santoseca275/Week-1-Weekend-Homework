@@ -13,7 +13,21 @@ nav {
 img {
   height: 300px;
   width: 1250px;
+  position: relative;
+}
 
+h1 {
+  position: absolute;
+  top: 200px;
+  left: 200px;
+  width: 80%;
+}
+
+h1 span{
+  color: lightgrey;
+  font-style: 'Lato', sans-serif';
+  text-align: center;
+  verticle-align: middle;
 }
 
 .stanza {
